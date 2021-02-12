@@ -1,0 +1,8 @@
+Here is my email list:
+    hans@jupyter.com
+    lene@jupyter.com
+    troll@jupyter.com
+    
+    
+#Det her er vigtigt
+#Men lad vær med at kigge
