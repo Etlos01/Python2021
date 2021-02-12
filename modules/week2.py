@@ -1,5 +1,4 @@
 import argparse , csv
-from modules import utils
 
 def print_file_content(file):
     with open(file) as file_object:
