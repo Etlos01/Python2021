@@ -1,0 +1,35 @@
+Hans,Male,Computer Science,Lise,30,3,0,Image_url
+Lars,Male,Gym,kurt,30,6,4,Image_url
+Lars,Male,Computer Science,kurt,30,5,2,Image_url
+Benjamin,Male,Computer Science,Lise,30,4,10,Image_url
+Benjamin,Male,English,Lise,30,5,4,Image_url
+Kasper,Male,Math,Arne,30,2,0,Image_url
+Hans,Male,Computer Science,kurt,30,7,0,Image_url
+Hans,Male,Computer Science,Lise,30,4,7,Image_url
+Hans,Male,Gym,Tess,30,9,0,Image_url
+Hans,Male,Gym,Nicolaj,30,3,12,Image_url
+Christoffer,Male,Math,kurt,30,2,0,Image_url
+Christoffer,Male,physics,kurt,30,8,0,Image_url
+Victor,Male,physics,kurt,30,6,12,Image_url
+Hans,Male,English,Nicolaj,30,6,12,Image_url
+Hans,Male,English,Tess,30,3,12,Image_url
+Hans,Male,Computer Science,kurt,30,7,7,Image_url
+Christoffer,Male,English,Tess,30,7,7,Image_url
+Christoffer,Male,Computer Science,kurt,30,8,10,Image_url
+Christoffer,Male,Chemestry,Arne,30,5,2,Image_url
+Christoffer,Male,physics,Arne,30,6,10,Image_url
+Christoffer,Male,English,kurt,30,3,7,Image_url
+Christoffer,Male,Chemestry,Lise,30,8,12,Image_url
+Kasper,Male,Danglish,Lise,30,4,2,Image_url
+Kasper,Male,Computer Science,Arne,30,2,0,Image_url
+Bo,Male,Gym,Lise,30,6,12,Image_url
+Bo,Male,Computer Science,kurt,30,6,0,Image_url
+Lenny,Male,English,Arne,30,1,0,Image_url
+Lenny,Male,English,kurt,30,8,7,Image_url
+Lenny,Male,English,Lise,30,6,12,Image_url
+Lars,Male,Gym,Lise,30,8,4,Image_url
+Lars,Male,Math,Tess,30,2,4,Image_url
+Benjamin,Male,physics,Lise,30,1,7,Image_url
+Benjamin,Male,English,Arne,30,8,12,Image_url
+Benjamin,Male,English,Lise,30,4,7,Image_url
+Benjamin,Male,Computer Science,kurt,30,4,4,Image_url
