@@ -743,3 +743,10 @@ webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+JavaScript error: https://www.pricerunner.dk/sp/nvidia-geforce-rtx-3060-ti.html, line 1: ReferenceError: osdlfm is not defined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+(/usr/lib/firefox/firefox:15807): GLib-GObject-WARNING **: 13:51:28.717: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:15807): GLib-GObject-CRITICAL **: 13:51:28.739: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616593889125	Marionette	INFO	Stopped listening on port 44159
